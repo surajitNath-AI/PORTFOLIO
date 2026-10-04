@@ -1,4 +1,3 @@
-// Welcome button
 function showMessage() {
     alert("Hello! Welcome to Surajit Nath's Portfolio.");
 }
